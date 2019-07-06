@@ -1,7 +1,7 @@
 # Site settings
-title: "Thomas Harrington"
+title: "twh works"
 description: > 
-  Write a description of your website here.
+  Works by Thomas Harrington.
 
 author: Thomas Harrington
 email: tom@twh.works
@@ -9,7 +9,7 @@ twitter_username:
 github_username: twhworks
 
 baseurl: "twh.works" # the subpath of your site, e.g. /blog
-url: "https://twh.works/" # the base hostname & protocol for your site
+url: "https://twh.works" # the base hostname & protocol for your site
 
 google_analytics_id: 
 disqus_id:
