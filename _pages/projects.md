@@ -4,11 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-# Tutorials
-- How to ????
 
 # Projects
-- How to ????
+- Model Reporting 
+- Revit
+
 
 # Student Projects
 2018
