@@ -9,7 +9,7 @@ twitter_username:
 github_username: twhworks
 
 baseurl: "twh.works" # the subpath of your site, e.g. /blog
-url: "https://twh.works/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 google_analytics_id: 
 disqus_id:
