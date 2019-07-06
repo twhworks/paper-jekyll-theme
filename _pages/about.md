@@ -15,9 +15,3 @@ More information can be found through <a href="https://www.linkedin.com/" data-n
 Email [info@twh.works](info@twh.works)
 
 ----
-
-## Social
-
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
-
