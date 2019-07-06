@@ -5,13 +5,11 @@ permalink: /projects/
 ---
 
 Show off your projects here!
-- [Awesome Project]()
+- [MULTI-PURPOSE SPORTS HALL]()
 - [Cool Project]()
-- [New Project]()
-- [Old Project]()
-- [Hard Project]()
-- [School Project]()
-- [Project's Project]()
+
+# Tutorials
+- How to ????
 
 # Talks
 - How to ????
