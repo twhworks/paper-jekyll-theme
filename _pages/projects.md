@@ -11,8 +11,6 @@ permalink: /projects/
 
 
 # Student
-2018
-- [Multi-Purpose Sports Hall, Fishermans Bend. 2018]()
 
-2017
-- [Office & Retail Development, Burnley]()
+- [Multi-Purpose Sports Hall, Fishermans Bend, 2018]()
+- [Office & Retail Development, Burnley, 2017]()
