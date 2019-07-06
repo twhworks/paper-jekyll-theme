@@ -1,15 +1,15 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "Thomas Harrington"
 description: > 
   Write a description of your website here.
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: Thomas Harrington
+email: tom@twh.works
+twitter_username: 
+github_username: twhworks
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "twhworks" # the subpath of your site, e.g. /blog
+url: "https://twh.works" # the base hostname & protocol for your site
 
 google_analytics_id: UA-1111111111-1
 disqus_id:
