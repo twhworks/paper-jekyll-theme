@@ -22,13 +22,11 @@ comments: true
 
 
 
-#### Figure Ground
+##### Figure Ground
 
 ![Imgur](https://i.imgur.com/Geq2dvR.png)
-001 Urban Grain
 
 ![Imgur](https://i.imgur.com/Ei8xIij.png)
-002 Urban Block
 
 ![Imgur](https://i.imgur.com/XITv8ZC.png)
-003 Section
+
