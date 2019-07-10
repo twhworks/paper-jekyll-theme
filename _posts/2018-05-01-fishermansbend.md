@@ -6,9 +6,7 @@ date: 2019-07-17
 tags: sportshall fishermansbend victoria studentworks twhworks
 comments: true
 ---
-
-## Multi-Purpose Sports Hall
-
+![Imgur](https://i.imgur.com/OjkNZZK.png)
 
 ![Imgur](https://i.imgur.com/MWB6u6A.png)
 
