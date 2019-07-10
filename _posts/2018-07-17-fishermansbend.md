@@ -22,7 +22,7 @@ comments: true
 
 
 
-##### Figure Ground
+
 
 ![Imgur](https://i.imgur.com/XITv8ZC.png)
 
