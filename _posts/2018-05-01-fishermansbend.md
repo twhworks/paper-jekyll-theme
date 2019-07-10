@@ -8,18 +8,19 @@ comments: true
 ---
 
 ## Multi-Purpose Sports Hall
-####  FISHERMANS BEND, MELBOURNE, VICTORIA
+
 
 ![Imgur](https://i.imgur.com/MWB6u6A.png)
 
 
-## Why
-- Portfolio
+## Figure Ground
 
-## Features
-- Architecture
-- BIM
-- Data Viz
-- Revit & Dynamo
-- Python
+![Imgur](https://i.imgur.com/Geq2dvR.png)
+001 Urban Grain
+
+![Imgur](https://i.imgur.com/Ei8xIij.png)
+002 Urban Block
+
+![Imgur](https://i.imgur.com/XITv8ZC.png)
+003 Section
 
