@@ -24,9 +24,10 @@ comments: true
 
 ##### Figure Ground
 
+![Imgur](https://i.imgur.com/XITv8ZC.png)
+
 ![Imgur](https://i.imgur.com/Geq2dvR.png)
 
 ![Imgur](https://i.imgur.com/Ei8xIij.png)
 
-![Imgur](https://i.imgur.com/XITv8ZC.png)
 
