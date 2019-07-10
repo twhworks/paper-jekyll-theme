@@ -14,8 +14,6 @@ comments: true
 
 ![Imgur](https://i.imgur.com/Q9sh3Vt.png)
 
-![Imgur](https://i.imgur.com/f6VRJwE.png)
-
 ![Imgur](https://i.imgur.com/Bzyznly.png)
 
 ![Imgur](https://i.imgur.com/gziNvhn.png)
