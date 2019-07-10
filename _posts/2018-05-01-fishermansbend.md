@@ -32,4 +32,3 @@ comments: true
 
 ![Imgur](https://i.imgur.com/XITv8ZC.png)
 003 Section
-
