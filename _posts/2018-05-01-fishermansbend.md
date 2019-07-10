@@ -10,7 +10,7 @@ comments: true
 ## Multi-Purpose Sports Hall
 ####  FISHERMANS BEND, MELBOURNE, VICTORIA
 
-![Large Image](https://drive.google.com/open?id=1d3q2PeWjoOKQsgGMXE7aOQwJu-L5Fv_K "Large Image")
+![R_07](https://drive.google.com/open?id=1d3q2PeWjoOKQsgGMXE7aOQwJu-L5Fv_K "R_07.png")
 
 
 ## Why
