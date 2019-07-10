@@ -10,7 +10,11 @@ comments: true
 
 ![Imgur](https://i.imgur.com/MWB6u6A.png)
 
+![Imgur](https://i.imgur.com/f6VRJwE.png)
+
 ![Imgur](https://i.imgur.com/c6t4586.png)
+
+![Imgur](https://i.imgur.com/gziNvhn.png)
 
 ![Imgur](https://i.imgur.com/fYHRhB8.png)
 
