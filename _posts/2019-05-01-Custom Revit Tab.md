@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Custom Tab"
-description: "CFor Autodesk Revit"
+description: "for Autodesk Revit"
 date: 2019-05-01
 tags: BIM Revit Dynamo Dyno professionalworks twhworks
 comments: true
