@@ -2,7 +2,7 @@
 layout: post
 title: "BIM Analytics"
 description: "Model Report Dashboard"
-date: 2019-05-01
+date: 2019-04-17
 tags: BIM Analytics Reporting professionalworks twhworks
 comments: true
 ---
