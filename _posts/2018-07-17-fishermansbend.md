@@ -9,13 +9,11 @@ comments: true
 
 ![Imgur](https://i.imgur.com/fHkGA44.png)
 
-
-
+<br>
 **Location** Fishermans Bend, Victoria, Australia <br>
 **Category** Adaptive Reuse <br>
 **Project Year** 2018 <br>
-
-
+<br>
 
 ![Imgur](https://i.imgur.com/Ei8xIij.png)
 
