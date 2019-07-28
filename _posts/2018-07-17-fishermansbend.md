@@ -39,7 +39,7 @@ comments: true
 
 <br> <br>
 
-###Awards
+### Awards
 ![Imgur](https://i.imgur.com/ckKSkWj.png)
 
 > **2019 Design Matters (BDAV)** <br>
