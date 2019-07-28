@@ -40,10 +40,12 @@ comments: true
 <br> <br>
 
 ### Awards
+<br>
+> **2019 Design Matters (BDAV)** <br>
+Winner - Best response to a design brief (Emerging Designers) <br>
 ![Imgur](https://i.imgur.com/ckKSkWj.png)
 
-> **2019 Design Matters (BDAV)** <br>
-Winner - Best response to a design brief (Emerging Designers)
+
 
 
 
