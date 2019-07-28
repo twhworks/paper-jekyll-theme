@@ -11,7 +11,7 @@ permalink: /projects/
 
 # Student Work
 [Multi-Purpose Sports Hall, Fishermans Bend, 2018]()
-> **2019 Design Matters (BDAV)**
+> **2019 Design Matters (BDAV)** <br>
 Winner - Best response to a design brief (Emerging Designers)
 
 > **2018 Holmesglen Institute** 
