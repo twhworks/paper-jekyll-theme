@@ -5,9 +5,9 @@ permalink: /projects/
 ---
 
 
-# Professional
+# Professional Work
 
-# Personal
+# Personal Work
 
 # Student Work
 [Multi-Purpose Sports Hall, Fishermans Bend, 2018]()
