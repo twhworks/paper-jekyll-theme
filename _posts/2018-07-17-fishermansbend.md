@@ -7,20 +7,11 @@ tags: sportshall fishermansbend victoria studentworks twhworks
 comments: true
 ---
 
----
-layout: post
-title: "Fishermans Bend"
-description: "Multi-Purpose Sports Hall"
-date: 2018-05-01
-tags: sportshall fishermansbend victoria studentworks twhworks
-comments: true
----
-
 ![Imgur](https://i.imgur.com/fHkGA44.png)
 
-**Location**  <br> Fishermans Bend, Victoria, Australia
-**Category** <br> Adaptive Reuse 
-**Project Year** <br> 2018
+**Location** Fishermans Bend, Victoria, Australia
+**Category** Adaptive Reuse 
+**Project Year** 2018
 
 ![Imgur](https://i.imgur.com/XITv8ZC.png)
 
