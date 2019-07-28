@@ -7,9 +7,9 @@ permalink: /projects/
 
 ## Professional Work
 
-[BIM Analytics, 2018]()
+[BIM Analytics, 2018]() <br>
 
-[Custom Revit Tab, 2018]()
+[Custom Revit Tab, 2018]() <br>
 
 ## Student Work
 
