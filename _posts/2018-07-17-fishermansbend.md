@@ -11,7 +11,7 @@ comments: true
 
 <br>
 **Location** Fishermans Bend, Victoria, Australia <br>
-**Category** Adaptive Reuse <br>
+**Category** Community + Recreation <br>
 **Project Year** 2018 <br>
 <br>
 
