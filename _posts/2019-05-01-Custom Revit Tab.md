@@ -7,4 +7,8 @@ tags: BIM Revit Dynamo Dyno professionalworks twhworks
 comments: true
 ---
 
-![Imgur](https://i.imgur.com/LJfbPIX.png?1)
+
+
+![Imgur](https://i.imgur.com/LJfbPIX.png?1) 
+<br>
+[Gitbook](https://bates-smart.gitbook.io/bates-smart-tab/)
