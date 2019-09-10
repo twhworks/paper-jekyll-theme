@@ -6,6 +6,8 @@ date: 2019-06-01
 tags: BIM Analytics Reporting professionalworks twhworks
 comments: true
 ---
+[![](![Imgur](https://i.imgur.com/er4H1c6.png))](![Imgur](https://i.imgur.com/er4H1c6.png)
+
 ![Imgur](https://i.imgur.com/er4H1c6.png)
 
 ![Imgur](https://i.imgur.com/QAgw5AR.png)
