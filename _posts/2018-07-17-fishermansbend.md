@@ -16,15 +16,17 @@ comments: true
 **Project Year** 2018 <br>
 <br>
 
+![Imgur](https://i.imgur.com/lyfVPc3.png)
+
 ![Imgur](https://i.imgur.com/Ei8xIij.png)
 
 ![Imgur](https://i.imgur.com/Geq2dvR.png)
 
 ![Imgur](https://i.imgur.com/XITv8ZC.png)
 
-**Text Description** Fishermans Bend Multi-purpose Sports Hall presents an opportunity to reinvigorate a truly unique site in the industrial area of Port Melbourne. The design strives to create an inspiring & distinctive public destination within the Wirraway precinct of the Fishermans Bend, an emphasis on exceptional design quality, flexible space and community amenity delivers an open connection for the new & growing neighbourhood.
+**Text Description** <br>
+Fishermans Bend Multi-purpose Sports Hall presents an opportunity to reinvigorate a truly unique site in the industrial area of Port Melbourne. The design strives to create an inspiring & distinctive public destination within the Wirraway precinct of the Fishermans Bend, an emphasis on exceptional design quality, flexible space and community amenity delivers an open connection for the new & growing neighbourhood. <br>
 
-![Imgur](https://i.imgur.com/lyfVPc3.png)
 
 ![Imgur](https://i.imgur.com/2ixLjp7.png)
 
