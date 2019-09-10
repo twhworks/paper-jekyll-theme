@@ -10,7 +10,7 @@ comments: true
 ![Imgur](https://i.imgur.com/fHkGA44.png)
 
 <br><br>
-###Project Information
+###Project Information <br><br>
 **Location** Fishermans Bend, Victoria, Australia <br>
 **Category** Community + Recreation <br>
 **Project Year** 2018 <br>
