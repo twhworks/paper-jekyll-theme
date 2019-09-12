@@ -1,4 +1,4 @@
-[twh.works](twh.works) is a personal blog + portfolio site that uses Jekyll
+[twh.works](https://twh.works) is a personal blog + portfolio site that uses Jekyll
 <br>
 <br>
 
