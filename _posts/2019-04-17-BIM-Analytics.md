@@ -12,7 +12,6 @@ comments: true
 ### Why BIM Model Analytics <br>
 - Passive model monitoring of on-prem studio models via power bi dashboard.
 - Identity models that require attention (eg warnings, file size, sync time spikes)
--
 
 [![Imgur](https://i.imgur.com/er4H1c6.png)](https://i.imgur.com/er4H1c6.png)
 
