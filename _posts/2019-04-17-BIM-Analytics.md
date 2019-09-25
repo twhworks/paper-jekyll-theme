@@ -7,8 +7,14 @@ tags: BIM Analytics Reporting professionalworks twhworks
 comments: true
 ---
 
-[![Imgur](https://i.imgur.com/er4H1c6.png)](https://i.imgur.com/er4H1c6.png)
+### Why <br>
+- Passive model monitoring of studio models via nightly report.
 
+[![Imgur](https://i.imgur.com/er4H1c6.png)](https://i.imgur.com/er4H1c6.png)
+<br><br>
+### Workflow <br>
+[![Imgur](https://i.imgur.com/FxNQaJv.png)](https://i.imgur.com/FxNQaJv.png)
+<br><br>
 ![Imgur](https://i.imgur.com/er4H1c6.png)
 
 ![Imgur](https://i.imgur.com/QAgw5AR.png)
