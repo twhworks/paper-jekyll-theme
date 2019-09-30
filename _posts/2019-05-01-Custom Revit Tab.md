@@ -25,11 +25,6 @@ A Revit plugin that allows users of all skill level to access the power of Dynam
 <br> - Isolating Elements
 <br> - And much more!
 
-<br><br>
-
-[Imgur](https://i.imgur.com/DhCtAGY.gifv)
-
 <br>
 
 [Gitbook](https://bates-smart.gitbook.io/bates-smart-tab/)
-<br><br>
