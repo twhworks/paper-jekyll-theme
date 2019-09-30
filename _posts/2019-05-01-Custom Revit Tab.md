@@ -27,7 +27,7 @@ A Revit plugin that allows users of all skill level to access the power of Dynam
 
 <br><br>
 
-![Imgur](https://imgur.com/DhCtAGY)
+[Imgur](https://i.imgur.com/DhCtAGY.gifv)
 
 <br>
 
