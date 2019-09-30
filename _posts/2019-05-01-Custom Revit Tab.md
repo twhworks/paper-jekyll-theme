@@ -11,17 +11,19 @@ A Revit plugin that allows users of all skill level to access the power of Dynam
 <br><br>
 40+ Custom Dynamo Graphs disguised as Buttons via Dyno.
 <br>
+
 ![Imgur](https://i.imgur.com/X5nylig.png) 
+
 <br>
-**What can it do?**<br>
-Save you time on repetitive & tedious tasks, like: 
-<br>Creating Sheets
-<br>Creating Views
-<br>Adding Revisions to Sheets
-<br>Deleting Views for Model Issue
-<br>Sorting the Project Browser
-<br>Isolating Elements
-<br>And much more!
+**What can it do?**
+<br> - Save you time on repetitive & tedious tasks, like: 
+<br> - Creating Sheets
+<br> - Creating Views
+<br> - Adding Revisions to Sheets
+<br> - Deleting Views for Model Issue
+<br> - Sorting the Project Browser
+<br> - Isolating Elements
+<br> - And much more!
 
 <br><br>
 ![Imgur](https://i.imgur.com/DhCtAGY.gifv)
