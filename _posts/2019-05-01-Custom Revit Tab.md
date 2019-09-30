@@ -10,7 +10,7 @@ comments: true
 A Revit plugin that allows users of all skill level to access the power of Dynamo via the Ribbon, extending the possibilities of Revit.
 <br><br>
 40+ Custom Dynamo Graphs disguised as Buttons via Dyno.
-<br>
+<br><br><br>
 
 ![Imgur](https://i.imgur.com/X5nylig.png) 
 
@@ -26,7 +26,10 @@ A Revit plugin that allows users of all skill level to access the power of Dynam
 <br> - And much more!
 
 <br><br>
+
 ![Imgur](https://i.imgur.com/DhCtAGY.gifv)
+
 <br>
+
 [Gitbook](https://bates-smart.gitbook.io/bates-smart-tab/)
 <br><br>
