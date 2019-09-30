@@ -7,9 +7,9 @@ permalink: /projects/
 
 ## Professional Work
 
-[BIM Model Analytics, 2018](https://twh.works/2019/06/BIM-Analytics.html) <br>
+[BIM Model Analytics, 2019](https://twh.works/2019/06/BIM-Analytics.html) <br>
 
-[Custom Revit Tab, 2018](https://twh.works/2019/05/Custom-Revit-Tab.html) <br>
+[Custom Revit Tab, 2019](https://twh.works/2019/05/Custom-Revit-Tab.html) <br>
 
 ## Student Work
 
