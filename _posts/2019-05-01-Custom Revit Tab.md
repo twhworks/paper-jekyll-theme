@@ -12,7 +12,7 @@ A Revit plugin that allows users of all skill level to access the power of Dynam
 40+ Custom Dynamo Graphs disguised as Buttons via Dyno.
 <br>
 ![Imgur](https://i.imgur.com/X5nylig.png) 
-
+<br>
 **What can it do?**<br>
 Save you time on repetitive & tedious tasks, like: 
 <br>Creating Sheets
@@ -25,6 +25,6 @@ Save you time on repetitive & tedious tasks, like:
 
 <br><br>
 ![Imgur](https://i.imgur.com/DhCtAGY.gifv)
-
+<br>
 [Gitbook](https://bates-smart.gitbook.io/bates-smart-tab/)
 <br><br>
