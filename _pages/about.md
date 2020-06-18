@@ -7,7 +7,7 @@ Hi, I'm Tom.
 
 Thanks for visiting my site.
 
-I am a **building designer** + **bim specialist** who posts random works when I have the time. 
+I am a **Building Designer** + **BIM Manager** who posts random works when I have the time. 
 
 ----
 
